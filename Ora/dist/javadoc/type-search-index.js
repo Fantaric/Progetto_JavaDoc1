@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ora","l":"Ora"},{"p":"ora","l":"Time"}];updateSearchResults();
